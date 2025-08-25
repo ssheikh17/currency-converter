@@ -1,13 +1,14 @@
 # Currency Converter
 
-A simple and clean Currency Converter built with **HTML, CSS, and JavaScript**.  
-It fetches real-time exchange rates from the **Frankfurter API**.
+A **simple and clean Currency Converter** built with **HTML, CSS, and JavaScript**.  
+It fetches real-time exchange rates from the **Frankfurter API**, making it interactive and practical.
 
 ## Features
 
 - Convert between multiple currencies (USD, EUR, GBP, JPY, AUD, CAD, INR)  
 - Clean and minimal design  
-- Fully functional in the browser (no additional setup)  
+- Fully functional in the browser (no additional setup required)  
+- Live API integration for real-time rates  
 
 ## How to Use
 
@@ -21,4 +22,4 @@ It fetches real-time exchange rates from the **Frankfurter API**.
 - HTML  
 - CSS  
 - JavaScript  
-- [Frankfurter API](https://www.frankfurter.app/)  
+- [Frankfurter API](https://www.frankfurter.app/)
